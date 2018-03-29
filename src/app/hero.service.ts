@@ -84,3 +84,4 @@ private log(message: string) {
 }
 
 }
+}
